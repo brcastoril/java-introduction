@@ -1,4 +1,4 @@
-package com.dtidigital.dojo.serasa;
+package com.dtidigital.java.introduction;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

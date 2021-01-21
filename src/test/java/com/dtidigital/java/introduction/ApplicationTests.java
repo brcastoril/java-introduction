@@ -1,4 +1,4 @@
-package com.dtidigital.dojo.serasa;
+package com.dtidigital.java.introduction;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
